@@ -1,1 +1,48 @@
+# Day 1
+
+''' anisul islam youtube '''
+print("anisul islam course to python basic")
+""" while loop use to python problem solve """
+# num = [10,20,30,40,50,60,70,80,90]
+# print(num)
+# count = 0
+# a = len(num)
+# while count<a:
+#     print(num[count])
+#     count=count+1
+
+# name =['j','a','h','i','d']
+# print(name)
+# letter=0
+# job=len(name)
+# while letter<job:
+#     print(name[letter])
+#     letter=letter+1
+
+
+# vowel=['a','e','i','o','u']
+# print(vowel)
+# lemit=0
+# vowel_len=len(vowel)
+# print("vowel is : ")
+# while lemit<vowel_len:
+#     print(vowel[lemit])
+#     lemit=lemit+1
+
+'''for loop use to python program and problem solve '''
+# num=[99,88,77,66,55,44,33,22,11]
+# print(num)
+# for x in num:
+#     print("ans is :",x)
+
+# num=[90,77,55]
+# number=0
+# for x in num:
+#     number=number+x
+#     print(number)
+
+
+
+
+
 
