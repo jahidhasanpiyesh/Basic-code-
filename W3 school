@@ -12,13 +12,11 @@ print("pythn syntax")
 #         print("Six is greater than two!")
 
 # Python Variables
-# 02
 
 # name="jahid hasan"
 # print(name)
 
 # Comments
-# 03
 
 # single comments
 '''Multiline comments'''
@@ -31,7 +29,23 @@ print("pythn syntax")
 # print(x2)
 # print(x3)
 
-# next study Python Casting
 
+# Day 02
 
-print("jahid")
+# ------------next study Python Casting : ----python string chapter----
+numbers=88
+print("type casting ans is :",float(numbers)) # type casting
+
+# -----------python string :
+name="jahid hasan"
+print("ans is :",name[0:5]) # 0 to 5 ---j index=0 and d index=5 (start 0 -- end 5)
+print("ans is :",name[1:5]) # 1 to 5 ---a index=1 and d index=5 (start 1 -- end 5)
+print("ans is :",name[5:11]) # 5 to 11---h index=5 and n index=11 (start 5 -- end 11)
+# start - index to left site and - big numbers
+print("ans is :",name[-11:]) # -11 to all-- j index=11 and ( start 11 -- end lest item)
+
+# ------------Python - Modify Strings :
+pets= "cat,dog,hen"
+pets1= "CAT,DOG,HEN"
+print("modify pets item is :",pets.upper())
+print("modify pets1 item is :",pets1.lower())
