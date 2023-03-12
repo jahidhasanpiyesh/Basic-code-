@@ -32,3 +32,10 @@ print("pythn syntax")
 # print(x3)
 
 # next study Python Casting
+# Python Casting -------
+numbers=44   # number is int
+print("Real ans is:",numbers)
+print("Type casting ans is:",float(numbers)) # type cast int to float
+
+
+
