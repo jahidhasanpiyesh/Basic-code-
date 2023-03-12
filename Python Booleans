@@ -1,1 +1,5 @@
+# Boolean Values--------
+print(33>32)
+print(66<33)
+print(66>=67)
 
